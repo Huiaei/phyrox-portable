@@ -1,5 +1,6 @@
-//go:generate go install -v github.com/josephspurrier/goversioninfo/cmd/goversioninfo
 package main
+
+//go:generate go tool goversioninfo -icon=res/papp.ico -manifest=res/papp.manifest
 
 import (
 	_ "embed"

@@ -3,7 +3,7 @@ module github.com/portapps/phyrox-portable
 go 1.26.0
 
 require (
-	github.com/pierrec/lz4/v3 v3.3.5
+	github.com/pierrec/lz4/v3 v3.3.6
 	github.com/pkg/errors v0.9.1
 	github.com/portapps/portapps/v3 v3.19.0
 )
@@ -13,7 +13,7 @@ require (
 	github.com/go-ole/go-ole v1.3.0 // indirect
 	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/ilya1st/rotatewriter v0.0.0-20171126183947-3df0c1a3ed6d // indirect
-	github.com/josephspurrier/goversioninfo v1.5.0 // indirect
+	github.com/josephspurrier/goversioninfo v1.7.0 // indirect
 	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/rs/zerolog v1.35.1 // indirect
